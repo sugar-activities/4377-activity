@@ -1,0 +1,7 @@
+[Activity]
+name = XoPhoto
+bundle_id = org.laptop.XoPhoto
+activity_version = 2
+icon = XoPhoto
+class = xophotoactivity.XoPhotoActivity
+ 
